@@ -1,0 +1,22 @@
+{
+  "name": "ourapp",
+  "version": "1.0.0",
+  "description": "lalalalal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwmay23/OurApp.git"
+  },
+  "author": "mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwmay23/OurApp/issues"
+  },
+  "homepage": "https://github.com/mwmay23/OurApp#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
